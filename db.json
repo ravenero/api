@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": 123512,
-      "account": {
+      "account": "{
         "avatar": "https://cache.lahelu.com/avatar-UwZls6xvQ-68894",
         "username": "aku_berlutut_tch_tidak_akan"
-      },
+      }",
       "caption": "Contoh asli dari kata anter sendiri 😁",
       "media": "https://cache.lahelu.com/image-PrU1xfcMG-52422",
       "type": "IMAGE",
@@ -17,10 +17,10 @@
     },
     {
       "id": 821552,
-      "account": {
+      "account": "{
         "avatar": "https://cache.lahelu.com/avatar-UpVqiZa0e-21026",
         "username": "di_nual_ranar"
-      },
+      }",
       "caption": "Kehabisan Ide Wak 🗿",
       "media": "https://cache.lahelu.com/video-PJxhY5VBX-25586",
       "type": "VIDEO",
@@ -32,10 +32,10 @@
     },
     {
       "id": 893518,
-      "account": {
+      "account": "{
         "avatar": "https://cache.lahelu.com/avatar-Uuumn5VjG-48538",
         "username": "gak_tawu"
-      },
+      }"",
       "caption": "This is last meme im post",
       "media": "https://cache.lahelu.com/image-PUGlbH1zp-93942",
       "type": "IMAGE",
@@ -47,10 +47,10 @@
     },
     {
       "id": 413517,
-      "account": {
+      "account": "{
         "avatar": "https://cache.lahelu.com/avatar-UlTnrDjbT-82488",
         "username": "adudu_bahagia_sangad_bahagia"
-      },
+      }",
       "caption": "jawa timur(special 14k upvote)",
       "media": "https://cache.lahelu.com/video-PCV949TvP-82408",
       "type": "VIDEO",
@@ -62,10 +62,10 @@
     },
     {
       "id": 713612,
-      "account": {
+      "account": "{
         "avatar": "https://cache.lahelu.com/avatar-UPDVFK5wi-1680830607155",
         "username": "tengkorak_merenung"
-      },
+      }",
       "caption": "Lihat tanggal apa hari ini",
       "media": "https://cache.lahelu.com/video-PR9K5ZzLK-78525",
       "type": "VIDEO",
