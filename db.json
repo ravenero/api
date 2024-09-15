@@ -13,7 +13,7 @@
       "vote": 9400,
       "comments": 2100,
       "shares": 3100,
-      createdAt: new Date("2024-09-14T23:20:23Z"),
+      createdAt: "2024-09-14T23:20:23Z",
     },
     {
       "id": 821552,
@@ -28,7 +28,7 @@
       "vote": 68,
       "comments": 12,
       "shares": 41,
-      "createdAt": new Date("2024-09-14T21:10:03Z"),
+      "createdAt": "2024-09-14T21:10:03Z",
     },
     {
       "id": 893518,
@@ -43,7 +43,7 @@
       "vote": 63,
       "comments": 11,
       "shares": 0,
-      "createdAt": new Date("2024-09-14T14:31:00Z"),
+      "createdAt": "2024-09-14T21:10:03Z",
     },
     {
       "id": 413517,
@@ -58,7 +58,7 @@
       "vote": 70,
       "comments": 33,
       "shares": 0,
-      "createdAt": new Date("2024-09-14T12:08:09Z"),
+      "createdAt": "2024-09-14T12:08:09Z",
     },
     {
       "id": 713612,
@@ -73,7 +73,7 @@
       "vote": 77,
       "comments": 24,
       "shares": 8,
-      "createdAt": 2024 - 09 - 14 T21: 10: 03.000 Z,
+      "createdAt": "2024-09-14T10:08:09Z"
     },
   ],
   "comments": [
