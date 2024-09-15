@@ -3,77 +3,77 @@
     {
       "id": 123512,
       "account": {
-        "avatar": 'https://cache.lahelu.com/avatar-UwZls6xvQ-68894',
-        "username": 'aku_berlutut_tch_tidak_akan'
+        "avatar": "https://cache.lahelu.com/avatar-UwZls6xvQ-68894",
+        "username": "aku_berlutut_tch_tidak_akan"
       },
-      "caption": 'Contoh asli dari kata anter sendiri 😁',
-      "media": 'https://cache.lahelu.com/image-PrU1xfcMG-52422',
-      "type": 'IMAGE',
-      "hastags": ['funny', 'absurd', 'siapasangka', 'alamak'],
+      "caption": "Contoh asli dari kata anter sendiri 😁",
+      "media": "https://cache.lahelu.com/image-PrU1xfcMG-52422",
+      "type": "IMAGE",
+      "hastags": ["funny", "absurd", "siapasangka", "alamak"],
       "vote": 9400,
       "comments": 2100,
       "shares": 3100,
-      "createdAt": new Date('2024-09-14T23:20:23Z'),
+      createdAt: new Date("2024-09-14T23:20:23Z"),
     },
     {
       "id": 821552,
       "account": {
-        "avatar": 'https://cache.lahelu.com/avatar-UpVqiZa0e-21026',
-        "username": 'di_nual_ranar'
+        "avatar": "https://cache.lahelu.com/avatar-UpVqiZa0e-21026",
+        "username": "di_nual_ranar"
       },
-      "caption": 'Kehabisan Ide Wak 🗿',
-      "media": 'https://cache.lahelu.com/video-PJxhY5VBX-25586',
-      "type": 'VIDEO',
-      "hastags": ['random', 'semangka', 'kocak', 'lucu', 'humor'],
+      "caption": "Kehabisan Ide Wak 🗿",
+      "media": "https://cache.lahelu.com/video-PJxhY5VBX-25586",
+      "type": "VIDEO",
+      "hastags": ["random", "semangka", "kocak", "lucu", "humor"],
       "vote": 68,
       "comments": 12,
       "shares": 41,
-      "createdAt": new Date('2024-09-14T21:10:03Z'),
+      "createdAt": new Date("2024-09-14T21:10:03Z"),
     },
     {
       "id": 893518,
       "account": {
-        "avatar": 'https://cache.lahelu.com/avatar-Uuumn5VjG-48538',
-        "username": 'gak_tawu'
+        "avatar": "https://cache.lahelu.com/avatar-Uuumn5VjG-48538",
+        "username": "gak_tawu"
       },
       "caption": "This is last meme i'm post",
-      "media": 'https://cache.lahelu.com/image-PUGlbH1zp-93942',
-      "type": 'IMAGE',
-      "hastags": ['random', 'meme'],
+      "media": "https://cache.lahelu.com/image-PUGlbH1zp-93942",
+      "type": "IMAGE",
+      "hastags": ["random", "meme"],
       "vote": 63,
       "comments": 11,
       "shares": 0,
-      "createdAt": new Date('2024-09-14T14:31:00Z'),
+      "createdAt": new Date("2024-09-14T14:31:00Z"),
     },
     {
       "id": 413517,
       "account": {
-        "avatar": 'https://cache.lahelu.com/avatar-UlTnrDjbT-82488',
-        "username": 'adudu_bahagia_sangad_bahagia'
+        "avatar": "https://cache.lahelu.com/avatar-UlTnrDjbT-82488",
+        "username": "adudu_bahagia_sangad_bahagia"
       },
       "caption": "jawa timur(special 14k upvote)",
-      "media": 'https://cache.lahelu.com/video-PCV949TvP-82408',
-      "type": 'VIDEO',
-      "hastags": ['absurd', 'jawa-timur', 'sound-horeg'],
+      "media": "https://cache.lahelu.com/video-PCV949TvP-82408",
+      "type": "VIDEO",
+      "hastags": ["absurd", "jawa-timur", "sound-horeg"],
       "vote": 70,
       "comments": 33,
       "shares": 0,
-      "createdAt": new Date('2024-09-14T12:08:09Z'),
+      "createdAt": new Date("2024-09-14T12:08:09Z"),
     },
     {
       "id": 713612,
       "account": {
-        "avatar": 'https://cache.lahelu.com/avatar-UPDVFK5wi-1680830607155',
-        "username": 'tengkorak_merenung'
+        "avatar": "https://cache.lahelu.com/avatar-UPDVFK5wi-1680830607155",
+        "username": "tengkorak_merenung"
       },
       "caption": "Lihat tanggal apa hari ini",
-      "media": 'https://cache.lahelu.com/video-PR9K5ZzLK-78525',
-      "type": 'VIDEO',
-      "hastags": ['absurd', 'jawa-timur', 'sound-horeg'],
+      "media": "https://cache.lahelu.com/video-PR9K5ZzLK-78525",
+      "type": "VIDEO",
+      "hastags": ["absurd", "jawa-timur", "sound-horeg"],
       "vote": 77,
       "comments": 24,
       "shares": 8,
-      "createdAt": new Date('2024-09-14T19:18:12Z'),
+      "createdAt": new Date("2024-09-14T19:18:12Z"),
     },
   ],
   "comments": [
